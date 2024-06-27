@@ -1,0 +1,1 @@
+# Azure-Privilege-Escalation-Via-Service-Principal
